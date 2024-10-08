@@ -1,0 +1,46 @@
+[
+    {
+        "category": "fiction",
+        "title": {
+            "name": "The Great Gatsby",
+            "lang": "en"
+        },
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "price": 10.99,
+        "publish_date": "1925-04-10"
+    },
+    {
+        "category": "non-fiction",
+        "title": {
+            "name": "Sapiens: A Brief History of Humankind",
+            "lang": "en"
+        },
+        "author": "Yuval Noah Harari",
+        "genre": "History",
+        "price": 14.99,
+        "publish_date": "2014-09-04"
+    },
+    {
+        "category": "fiction",
+        "title": {
+            "name": "Le Petit Prince",
+            "lang": "fr"
+        },
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "genre": "Children's book",
+        "price": 8.99,
+        "publish_date": "1943-04-06"
+    },
+    {
+        "category": "fiction",
+        "title": {
+            "name": "1984",
+            "lang": "en"
+        },
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "price": 12.99,
+        "publish_date": "1949-06-08"
+    }
+]

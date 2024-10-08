@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="fiction">
+        <title lang="en">The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <genre>Classic</genre>
+        <price>10.99</price>
+        <publish_date>1925-04-10</publish_date>
+    </book>
+    <book category="non-fiction">
+        <title lang="en">Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <genre>History</genre>
+        <price>14.99</price>
+        <publish_date>2014-09-04</publish_date>
+    </book>
+    <book category="fiction">
+        <title lang="fr">Le Petit Prince</title>
+        <author>Antoine de Saint-Exupéry</author>
+        <genre>Children's book</genre>
+        <price>8.99</price>
+        <publish_date>1943-04-06</publish_date>
+    </book>
+    <book category="fiction">
+        <title lang="en">1984</title>
+        <author>George Orwell</author>
+        <genre>Dystopian</genre>
+        <price>12.99</price>
+        <publish_date>1949-06-08</publish_date>
+    </book>
+</bookstore>
